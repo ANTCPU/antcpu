@@ -19,9 +19,6 @@ Building robust web applications and automation systems that help businesses:
 Frontend: HTML5 | CSS3 | JavaScript | Responsive Design Backend: PHP | Node.js | API Development Tools: Git | GitHub Actions | Modern Build Tools Focus: Performance | Accessibility | SEO Optimization
 
 
-### 📊 GitHub Stats
-![ANTCPU's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANTCPU&show_icons=true&theme=radical)
-
 ### 🔥 Featured Projects
 - 🤖 **AI Automation System** - Intelligent workflow automation
 - 💰 **Digital Currency Platform** - Blockchain-based financial solution  
