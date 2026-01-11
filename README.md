@@ -28,7 +28,7 @@ Frontend: HTML5 | CSS3 | JavaScript | Responsive Design Backend: PHP | Node.js |
 ### 📫 Let's Connect
 - 🌐 Website: [antcpu.com](https://antcpu.com)
 - 📧 Email: antcpu@gmail.com
-- 📍 Location: Greensboro, NC
+- 📍 Location: Piedmont Triad, NC
 
 ---
 *"Code is poetry, automation is art, results are everything."*
