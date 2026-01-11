@@ -17,6 +17,7 @@
 
 ## 📡 Latest from antcpu.com
 <!-- BLOG-POST-LIST:START -->
+- [ANTCPU RSS Feed Launch](https://antcpu.com/feed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Featured Projects
