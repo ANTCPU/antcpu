@@ -17,6 +17,7 @@
 
 ## 📡 Latest from antcpu.com
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn 2026 Positioning Complete - Technology Powerhouse Launch](https://antcpu.com/feed.html)
 - [ANTCPU RSS Feed Launch](https://antcpu.com/feed.html)
 <!-- BLOG-POST-LIST:END -->
 
